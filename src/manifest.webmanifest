@@ -1,0 +1,10 @@
+{
+  "name": "dvs-sample-angular-app-pwa",
+  "short_name": "dvs-sample-angular-app-pwa",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": []
+}
